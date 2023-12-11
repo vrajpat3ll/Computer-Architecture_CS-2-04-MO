@@ -1,6 +1,6 @@
 # Computer Architecture
 
-This repo contains all the lectures and code-files written in the labs of the course Computer Architecture i.e. CS-2-04(MO) of our curriculum.
+This repo contains all the lectures and code-files written in the labs of the course Computer Architecture <br> i.e. CS-2-04(MO) of our curriculum.
 
 ## Installing ARMSim
 
