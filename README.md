@@ -15,4 +15,4 @@ You have to use the .s or .o extension for the file to run.
 
 ## Booth Multiplication
 
-There is an implementation of <a href="https://github.com/vrajpat3ll/Computer-Architecture_CS-2-04-MO/Labs-SamplePrograms/FinalAsssignment/BoothMultiplication.s">Booth's Multiplication Algorithm</a> given in P07-Integer Arithmetic.
+There is an implementation of <a href="https://github.com/vrajpat3ll/Computer-Architecture_CS-2-04-MO/blob/main/Labs-SamplePrograms/FinalAsssignment/BoothMultiplication.s">Booth's Multiplication Algorithm</a> given in P07-Integer Arithmetic for y'all.
